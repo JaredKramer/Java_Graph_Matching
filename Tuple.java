@@ -1,7 +1,5 @@
 /*
 Jared Kramer
-CSE 373
-Homework 5: Graph Matching
 
 This is a class for a basic tuple.
 Each tuple has two int values.
